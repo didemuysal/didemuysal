@@ -1,22 +1,8 @@
-## Hi there, it's Didem 👋
+## Hi, it's Didem 👋
 
 - Passionate about Data Science, Machine Learning, and AI.
 - I'm currently having my MSc in Data Science with a background in Computer Engineering.
 
-
-## IDE
-
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Colab">
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
-  </a>
-</p>
 
 ## Skills
 
@@ -44,5 +30,19 @@
   </a>
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+</p>
+
+## IDE
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode">
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Colab">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
   </a>
 </p>
