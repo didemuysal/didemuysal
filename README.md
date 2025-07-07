@@ -1,8 +1,6 @@
 ## Hi there, it's Didem 👋
 
-## About me
-
-- Passionate in Data Science, Machine Learning, and AI.
+- Passionate about Data Science, Machine Learning, and AI.
 - I'm currently having my MSc in Data Science with a background in Computer Engineering.
 
 
